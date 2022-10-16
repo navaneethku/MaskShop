@@ -55,7 +55,7 @@ fun StartOrderScreen(
     ) {
         Spacer(modifier = Modifier.height(16.dp))
         Image(
-            painter = painterResource(R.drawable.cupcake),
+            painter = painterResource(R.drawable.drawing_mask_generated),
             contentDescription = null,
             modifier = Modifier.width(300.dp)
         )

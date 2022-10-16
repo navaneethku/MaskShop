@@ -27,10 +27,10 @@ import java.util.Calendar
 import java.util.Locale
 
 /** Price for a single cupcake */
-private const val PRICE_PER_CUPCAKE = 2.00
+private const val PRICE_PER_CUPCAKE = 0.50
 
 /** Additional cost for same day pickup of an order */
-private const val PRICE_FOR_SAME_DAY_PICKUP = 3.00
+private const val PRICE_FOR_SAME_DAY_PICKUP = 1.00
 
 /**
  * [OrderViewModel] holds information about a cupcake order in terms of quantity, flavor, and

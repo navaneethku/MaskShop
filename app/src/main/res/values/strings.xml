@@ -14,17 +14,17 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Cupcake</string>
-    <string name="order_cupcakes">Order Cupcakes</string>
-    <string name="one_cupcake">One Cupcake</string>
-    <string name="six_cupcakes">Six Cupcakes</string>
-    <string name="twelve_cupcakes">Twelve Cupcakes</string>
-    <string name="choose_flavor">Choose Flavor</string>
-    <string name="vanilla">Vanilla</string>
-    <string name="chocolate">Chocolate</string>
-    <string name="red_velvet">Red Velvet</string>
-    <string name="salted_caramel">Salted Caramel</string>
-    <string name="coffee">Coffee</string>
+    <string name="app_name">Mask</string>
+    <string name="order_cupcakes">Order Masks</string>
+    <string name="one_cupcake">Five Mask</string>
+    <string name="six_cupcakes">Ten Mask</string>
+    <string name="twelve_cupcakes">Twenty Mask</string>
+    <string name="choose_flavor">Choose Colour</string>
+    <string name="vanilla">Black</string>
+    <string name="chocolate">White</string>
+    <string name="red_velvet">Blue</string>
+    <string name="salted_caramel">Yellow</string>
+    <string name="coffee">Red</string>
     <string name="special_flavor">Special Flavor</string>
     <string name="cancel">Cancel</string>
     <string name="next">Next</string>
@@ -32,17 +32,17 @@
     <string name="order_summary">Order Summary</string>
     <string name="send">Send Order to Another App</string>
     <string name="quantity">Quantity</string>
-    <string name="flavor">Flavor</string>
+    <string name="flavor">Colour</string>
     <string name="pickup_date">Pickup date</string>
     <string name="subtotal_price">Subtotal %s</string>
     <string name="total_price">Total %s</string>
     <string name="new_cupcake_order">New Cupcake Order</string>
-    <string name="order_details">Quantity: %1$s \n Flavor: %2$s \nPickup date: %3$s \n
+    <string name="order_details">Quantity: %1$s \n Colour: %2$s \nPickup date: %3$s \n
         Total: %4$s \n\n Thank you!</string>
     <string name="back_button">Back</string>
     <plurals name="cupcakes">
-        <item quantity="one">%d cupcake</item>
-        <item quantity="other">%d cupcakes</item>
+        <item quantity="one">%d mask</item>
+        <item quantity="other">%d masks</item>
     </plurals>
 
 </resources>
