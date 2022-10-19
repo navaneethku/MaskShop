@@ -1,20 +1,9 @@
-Cupcake app
+Mask app
 =================================
 
-This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
+This app contains an order flow for Masks with options for quantity, colour, and pickup date.
 The order details get displayed on an order summary screen and can be shared to another app to
 send the order.
-
-TODO
-
-
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
-* TODO
-
 
 Getting Started
 ---------------
